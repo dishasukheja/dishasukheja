@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm disha sukheja</h1>
 <h3 align="center">A passionate web developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishasukheja&label=Profile%20views&color=0e75b6&style=flat" alt="dishasukheja" /> </p>
 
@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/dishasukheja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dishasukheja" height="30" width="40" /></a>
 <a href="https://instagram.com/insanely__ambitious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insanely_ambitious" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/insanely ambitious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="insanely ambitious" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@insanelyambitious2242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="insanely ambitious" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dishasukheja7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dishasukheja7" height="30" width="40" /></a>
 </p>
 
